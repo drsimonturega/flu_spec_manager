@@ -1,0 +1,1 @@
+# flu_spec_manager
